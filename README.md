@@ -152,7 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/Muhammad-Talha-Ayub)
+- GitHub: [@Muhammad-Talha-Ayub](https://github.com/Muhammad-Talha-Ayub)
 
 ## 🙏 Acknowledgments
 
