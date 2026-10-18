@@ -41,6 +41,13 @@ Before running this project, ensure you have:
 - Android Studio / Xcode (for mobile development)
 - A code editor (VS Code, Android Studio, or IntelliJ IDEA)
 
+## 🌐 Live Demo
+
+You can try the app live on the web:
+**[https://muhammad-talha-ayub.github.io/flutter-firebase-notes-app-with-auth-and-speech/](https://muhammad-talha-ayub.github.io/flutter-firebase-notes-app-with-auth-and-speech/)**
+
+*<small>Note: This is a demonstration build. For the full features, please clone the repository and run locally to access authentication and sync features.</small>*
+
 ## 🔧 Installation
 
 1. Clone the repository:
