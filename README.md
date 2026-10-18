@@ -152,7 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/Muhammad-Talha-Ayub)
 
 ## 🙏 Acknowledgments
 
@@ -162,9 +162,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👥 Team
 
-- **Lead Developer**: Your Name
+- **Lead Developer**: Muhammad Talha Ayub
 - **Tech Stack**: Flutter, Firebase, Provider
 
----
-
-**Note:** Remember to replace `YOUR_USERNAME` with your actual GitHub username before pushing to GitHub.
